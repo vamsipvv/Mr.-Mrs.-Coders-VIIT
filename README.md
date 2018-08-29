@@ -3,4 +3,5 @@ A Programming Competition within Vignan's Institute of Information Technology(VI
 Conducted in HackerEarth's College Admin Console of VIIT.
 Initiated for the first time in the college history.
 The winner's will be announced as VIIT coders of that year.
-Detailed reports of every participant is published.
+Detailed reports of every participant is provided.
+All the contest questions with test cases uploaded here.
